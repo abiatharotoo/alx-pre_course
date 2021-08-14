@@ -7,3 +7,7 @@ At the end of this project, one *should* be able to;
 - Write good READMEs
 - Write helpful commit messages
 - Work as a collaborator on a project
+Lessons learnt so far;
+- How to open up and edit texts in git
+- How to create branches in git
+- How to push local edits from git to github
